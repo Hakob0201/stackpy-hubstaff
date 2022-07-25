@@ -1,6 +1,6 @@
 <?php
 
-namespace Noisim\Hubstaff\Facades;
+namespace Stackpy\Hubstaff\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

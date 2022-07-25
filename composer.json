@@ -1,6 +1,6 @@
 {
-  "name": "stack/hubstaff",
-  "description": "Stack hubstaff api",
+  "name": "stackpy/hubstaff",
+  "description": "Stackpy hubstaff api",
   "license": "MIT",
   "type": "library",
   "authors": [

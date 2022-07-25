@@ -2,7 +2,7 @@
 
 namespace Noisim\Hubstaff\Helpers;
 
-use Stack\Request;
+use Stackpy\Request;
 
 class HubstaffRequest
 {

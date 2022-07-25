@@ -1,6 +1,6 @@
 <?php
 
-namespace Stack\Hubstaff\Facades;
+namespace Stackpy\Hubstaff\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

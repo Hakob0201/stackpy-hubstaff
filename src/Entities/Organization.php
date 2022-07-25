@@ -1,6 +1,6 @@
 <?php
 
-namespace Stack\Hubstaff\Entities;
+namespace Stackpy\Hubstaff\Entities;
 
 use Noisim\Hubstaff\Exceptions\OrganizationActionException;
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace Stack\Hubstaff;
+namespace Stackpy\Hubstaff;
 
 use Illuminate\Support\ServiceProvider;
 
@@ -25,6 +25,6 @@ class HubstaffServiceProvider extends ServiceProvider
      */
     public function register()
     {
-        $this->app->bind("sp-organization", \Stack\Hubstaff\Entities\Organization::class);
+        $this->app->bind("sp-organization", \Stackpy\Hubstaff\Entities\Organization::class);
     }
 }

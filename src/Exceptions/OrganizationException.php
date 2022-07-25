@@ -1,6 +1,6 @@
 <?php
 
-namespace Stack\Hubstaff\Exceptions;
+namespace Stackpy\Hubstaff\Exceptions;
 
 use Exception;
 
