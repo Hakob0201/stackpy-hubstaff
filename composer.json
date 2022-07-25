@@ -1,0 +1,24 @@
+{
+  "name": "stack/hubstaff",
+  "description": "Stack hubstaff api",
+  "license": "MIT",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Hakob  Vardanyan",
+      "email": "hakob.vardanyan.1996@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "require": {
+    "illuminate/support": "5.8.x-dev",
+    "nategood/httpful": "*",
+    "symfony/http-foundation": "6.2.x-dev"
+  },
+  "autoload": {
+    "psr-4": {
+      "Stack\\Hubstaff\\": "src"
+    }
+  }
+}
