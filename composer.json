@@ -12,6 +12,7 @@
   "minimum-stability": "dev",
   "prefer-stable": true,
   "require": {
+    "php": "^7.3|^8.0",
     "illuminate/support": "^v9.21.6",
     "nategood/httpful": "*",
     "symfony/http-foundation": "~3.3"
