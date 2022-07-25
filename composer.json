@@ -12,9 +12,9 @@
   "minimum-stability": "dev",
   "prefer-stable": true,
   "require": {
-    "illuminate/support": "^v8.83.22",
+    "illuminate/support": "^v7.21.0",
     "nategood/httpful": "*",
-    "symfony/http-foundation": "v5.0.0"
+    "symfony/http-foundation": "v3.4.30"
   },
   "autoload": {
     "psr-4": {
