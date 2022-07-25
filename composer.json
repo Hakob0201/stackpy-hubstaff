@@ -12,13 +12,13 @@
   "minimum-stability": "dev",
   "prefer-stable": true,
   "require": {
-    "illuminate/support": "5.*",
+    "illuminate/support": "^5.5",
     "nategood/httpful": "*",
-    "symfony/http-foundation": "6.*"
+    "symfony/http-foundation": "~3.3"
   },
   "autoload": {
     "psr-4": {
-      "Stack\\Hubstaff\\": "src"
+      "Stackpy\\Hubstaff\\": "src"
     }
   }
 }
